@@ -3,6 +3,9 @@ import java.util.Scanner;
 class InvertedNumberTriangle {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
+
+		System.out.print("Enter an Integer: ");
+
 		int n = sc.nextInt();
 
 		int dash = 0, r = 1, val = 1;
