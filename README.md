@@ -1,4 +1,4 @@
-# Fun_With_Java
+# Fun_With_Patterns
 
 • In this repository let's have some fun by applying the basic java/C/js/python programming knowledge to get funny results.
 
